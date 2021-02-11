@@ -1,5 +1,5 @@
-# Carrito_De_Compras
-#En este Carrito De Compras se realizan las siguientes aciones:
+### Carrito_De_Compras
+# En este Carrito De Compras se realizan las siguientes aciones:
 
 # Se traen datos de un json utilizando fetch.
 # Se pintan productos en Dom con fragment y templates html.
