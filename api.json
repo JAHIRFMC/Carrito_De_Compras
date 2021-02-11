@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 5000,
+      "id": 1,
+      "title": "Café",
+      "thumbnailUrl": "https://picsum.photos/id/30/600"
+    },
+    {
+      "precio": 3000000,
+      "id": 2,
+      "title": "Computador",
+      "thumbnailUrl": "https://picsum.photos/id/1/600"
+    },
+    {
+      "precio": 10000,
+      "id": 3,
+      "title": "Libro",
+      "thumbnailUrl": "https://picsum.photos/id/20/600"
+    },
+    {
+      "precio": 50000,
+      "id": 4,
+      "title": "Zapatos",
+      "thumbnailUrl": "https://picsum.photos/id/21/600"
+    },
+    {
+      "precio": 1000000,
+      "id": 5,
+      "title": "Pintura",
+      "thumbnailUrl": "https://picsum.photos/id/32/600"
+    },
+    {
+      "precio": 1500000,
+      "id": 6,
+      "title": "viaje",
+      "thumbnailUrl": "https://picsum.photos/id/100/600"
+    }
+  ]
